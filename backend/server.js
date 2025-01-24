@@ -1,12 +1,12 @@
 import express from 'express'
 import dataBaseConnection from './config/db.js';
 import dotenv from 'dotenv';
-import { getAllProducts } from './controllers/productController.js';
 import cors from 'cors'
 import fs from 'fs';
 import path from 'path'
 import Product from './models/productModel.js';
 import { fileURLToPath } from 'url';
+import routes from './routes/route.js'
 import AuthorizationUser from './middlewares/auth.js'
 
 dotenv.config()
@@ -35,7 +35,7 @@ const seedDatabase = async () => {
 
 seedDatabase();
 
-app.get('/api/products', getAllProducts);
+app.use('/api', routes);
 
 dataBaseConnection()
 

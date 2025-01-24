@@ -20,6 +20,13 @@ const Products = ({ onAddToCart }) => {
             console.error("Error fetching products:", error);
         }
     };
+    const addProductToCart = async (product) => {
+        try {
+            await axios.post("http://localhost:3001/api/addToCart",product);
+        } catch (error) {
+            console.error("Error fetching products:", error);
+        }
+    };
 
     const handleFilterChange = (event) => {
         const selectedType = event.target.value;
@@ -67,7 +74,7 @@ const Products = ({ onAddToCart }) => {
                         <p className="price">{product.price}</p>
                         <button
                             className="add-to-cart-button"
-                            onClick={() => onAddToCart(product)}
+                            onClick={() => addProductToCart(product)}
                         >
                             Add to Cart
                         </button>
