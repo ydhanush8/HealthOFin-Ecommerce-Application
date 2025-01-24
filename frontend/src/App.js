@@ -1,16 +1,10 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Products from './Products';
 import Cart from './Cart';
 import './App.css'
 
 function App() {
-
-  const [cart, setCart] = useState([]);
-
-  const handleAddToCart = (product) => {
-      setCart((prevCart) => [...prevCart, product]);
-  };
   return (
     <Router>
       <div className="App">
@@ -26,8 +20,8 @@ function App() {
           </ul>
         </nav>
         <Routes>
-          <Route path="/" element={<Products onAddToCart={handleAddToCart} />} />
-          <Route path="/cart" element={<Cart cartItems={cart} />} />
+          <Route path="/" element={<Products onAddToCart />} />
+          <Route path="/cart" element={<Cart cartItems />} />
         </Routes>
       </div>
     </Router>

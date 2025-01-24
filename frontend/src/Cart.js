@@ -2,14 +2,14 @@ import React, { useState, useEffect } from "react";
 import axios from 'axios'
 import "./Products.css";
 
-function Cart({ cartItems }) {
+function Cart() {
     const [cartProducts, setCartProducts] = useState([])
 
     useEffect(() => {
-        getProducts();
+        getCartProducts();
     }, []);
 
-    const getProducts = async () => {
+    const getCartProducts = async () => {
         try {
             let response = await axios.get("http://localhost:3001/api/getCartItem");
             setCartProducts(response.data);
@@ -17,6 +17,16 @@ function Cart({ cartItems }) {
             console.error("Error fetching cart products:", error);
         }
     };
+
+    const removeCartProduct = async (id) =>{
+        try{
+            await axios.delete(`http://localhost:3001/api/removeCartItem/${id}`)
+            setCartProducts(cartProducts.filter((item) => item._id !== id));
+        }
+        catch(error){
+            console.log("Error removing cart product", error)
+        }
+    }
 
     return (
         <div className="products-container">
@@ -37,8 +47,9 @@ function Cart({ cartItems }) {
                         <p className="price">{item.price}</p>
                         <button
                             className="add-to-cart-button"
+                            onClick={()=>removeCartProduct(item._id)}
                         >
-                            Buy Now
+                            Remove
                         </button>
                     </div>
                     ))}

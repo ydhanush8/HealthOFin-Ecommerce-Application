@@ -30,3 +30,13 @@ export const getAllCartProducts = async (req, res) => {
         res.status(500).json({ message: 'Error fetching cart products', error: error.message });
     }
 };
+
+export const removeCartProduct = async (req, res) => {
+    const { id } = req.params;
+    try {
+        await Cart.findByIdAndDelete(id);
+        res.status(200).json({ message: 'Removed cart item successfully' });
+    } catch (error) {
+        res.status(500).json({ message: error.message });
+    }
+};

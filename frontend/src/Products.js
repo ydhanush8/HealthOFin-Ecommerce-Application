@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./Products.css";
 
-const Products = ({ onAddToCart }) => {
+const Products = () => {
     const [products, setProducts] = useState([]);
     const [filteredProducts, setFilteredProducts] = useState([]);
     const [productType, setProductType] = useState("All");
@@ -20,6 +20,7 @@ const Products = ({ onAddToCart }) => {
             console.error("Error fetching products:", error);
         }
     };
+    
     const addProductToCart = async (product) => {
         try {
             await axios.post("http://localhost:3001/api/addToCart",product);
