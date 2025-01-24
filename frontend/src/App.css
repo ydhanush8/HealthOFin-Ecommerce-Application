@@ -10,19 +10,6 @@
   width: 100%;
 }
 
-.navbar ul {
-  list-style: none;
-  display: flex;
-  gap: 1rem;
-  margin: 0;
-  padding: 0;
-}
-
-.navbar li{
-  margin-top: 12px;
-  text-decoration: none;
-}
-
 .nav-link{
   display: inline;
   padding: 10px;
@@ -35,6 +22,15 @@
   text-decoration: none;
 }
 
+.nav-link-li{
+  padding-top: 30px;
+}
+
+.nav-link-top{
+  padding-top: 250px;
+}
+
+
 .nav-link:hover{
   background-color: rgb(106, 106, 106);
   border: 1px solid white;
@@ -45,7 +41,7 @@
 .logo{
   font-size: 35px;
   font-weight: 700;
-  margin-right: 390px;
+  margin-right: 40px;
 }
 
 .navbar a {
@@ -58,3 +54,62 @@
   text-decoration: underline;
 } 
 
+.hamburger {
+  position: absolute;
+  left: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 250px;
+  background-color: rgb(39, 39, 39);
+  color: white;
+  padding: 2rem 1rem;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 1rem 0;
+}
+
+.sidebar .nav-link {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.sidebar .nav-link:hover {
+  text-decoration: underline;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  cursor: pointer;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7); 
+  z-index: 500;
+}
