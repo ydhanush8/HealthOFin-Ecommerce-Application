@@ -1,0 +1,1020 @@
+[{
+    "id": "1",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/1.jpg",
+    "company": "LG",
+    "model": "CoolTech 5000",
+    "price": "Rs:7,990.99",
+    "category": "Electronics",
+    "description": "Powerful 15000 BTU window air conditioner with energy-saving features."
+},
+{
+    "id": "2",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/2.jpg",
+    "company": "Daikin",
+    "model": "ClimateMaster Pro",
+    "price": "Rs:8,990.99",
+    "category": "Electronics",
+    "description": "Advanced split-system AC with smart temperature control and quiet operation."
+},
+{
+    "id": "3",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/3.jpg",
+    "company": "Carrier",
+    "model": "Arctic Breeze 300",
+    "price": "Rs:29,900.50",
+    "category": "Electronics",
+    "description": "Ductless mini-split AC with adjustable airflow and dehumidification."
+},
+{
+    "id": "4",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/4.jpg",
+    "company": "Honeywell",
+    "model": "FrostFlow XL",
+    "price": "Rs:24,299.50",
+    "category": "Electronics",
+    "description": "Portable evaporative cooler with large water tank for efficient cooling in dry climates."
+},
+{
+    "id": "5",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/5.jpg",
+    "company": "Whirlpool",
+    "model": "ChillGuard 800",
+    "price": "Rs:54,900.00",
+    "category": "Electronics",
+    "description": "Energy-efficient window-mounted air conditioner with remote control."
+},
+{
+    "id": "6",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/6.jpg",
+    "company": "Nest",
+    "model": "EcoCool Smart+",
+    "price": "Rs:89,900.99",
+    "category": "Electronics",
+    "description": "Wi-Fi connected smart AC that adapts to your cooling preferences and schedule."
+},
+{
+    "id": "7",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/7.jpg",
+    "company": "Mitsubishi",
+    "model": "SilentComfort 1200i",
+    "price": "Rs:14,990.00",
+    "category": "Electronics",
+    "description": "Inverter technology AC with precise temperature control and energy efficiency."
+},
+{
+    "id": "8",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/8.jpg",
+    "company": "Frigidaire",
+    "model": "EZCool Portable 400",
+    "price": "Rs:39,900.99",
+    "category": "Electronics",
+    "description": "Easy-to-move portable air conditioner with quick installation and cooling."
+},
+{
+    "id": "9",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/9.jpg",
+    "company": "Lennox",
+    "model": "PureAir Ducted 6000",
+    "price": "Rs:24,990.00",
+    "category": "Electronics",
+    "description": "Whole-house ducted AC system with advanced air purification technology."
+},
+{
+    "id": "10",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/10.jpg",
+    "company": "Panasonic",
+    "model": "WallMaster Pro 1800",
+    "price": "Rs:74,900.00",
+    "category": "Electronics",
+    "description": "Wall-mounted AC with adjustable louvers and energy-saving features."
+},
+{
+    "id": "11",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/11.jpg",
+    "company": "Haier",
+    "model": "CoolWave Split 220",
+    "price": "Rs:64,900.50",
+    "category": "Electronics",
+    "description": "High-performance split AC system with rapid cooling and remote control."
+},
+{
+    "id": "12",
+    "productType": "airConditioner",
+    "image": "/assets/Ac/12.jpg",
+    "company": "Trane",
+    "model": "ClimateCentral 5000",
+    "price": "Rs:29,990.00",
+    "category": "Electronics",
+    "description": "Powerful central AC unit for large homes with zone-based temperature control."
+},
+{
+    "id": "1",
+    "productType": "Computer",
+    "image": "/assets/Computers/12.jpg",
+    "company": "Dell",
+    "model": "Inspiron 15",
+    "price": "Rs:89,900.99",
+    "category": "Electronics",
+    "description": "A versatile laptop with powerful performance and a sleek design."
+},
+{
+    "id": "2",
+    "productType": "Computer",
+    "image": "/assets/Computers/4.jpg",
+    "company": "HP",
+    "model": "Pavilion 27",
+    "price": "Rs:1,29,900.00",
+    "category": "Electronics",
+    "description": "An all-in-one desktop PC with a large display and high-speed processing."
+},
+{
+    "id": "3",
+    "productType": "Computer",
+    "image": "/assets/Computers/3.jpg",
+    "company": "Apple",
+    "model": "MacBook Air",
+    "price": "Rs:51,990.00",
+    "category": "Electronics",
+    "description": "An ultrathin and lightweight laptop known for its portability and smooth performance."
+},
+{
+    "id": "4",
+    "productType": "Computer",
+    "image": "/assets/Computers/11.jpg",
+    "company": "Lenovo",
+    "model": "IdeaPad Flex",
+    "price": "Rs:47,799.50",
+    "category": "Electronics",
+    "description": "A flexible 2-in-1 laptop with touchscreen capabilities and powerful processing."
+},
+{
+    "id": "5",
+    "productType": "Computer",
+    "image": "/assets/Computers/5.jpg",
+    "company": "Acer",
+    "model": "Predator Helios 300",
+    "price": "Rs:35,299.00",
+    "category": "Electronics",
+    "description": "A gaming laptop with high-performance graphics and advanced cooling technology."
+},
+{
+    "id": "6",
+    "productType": "Computer",
+    "image": "/assets/Computers/6.jpg",
+    "company": "Microsoft",
+    "model": "Surface Pro 7",
+    "price": "Rs:29,999.99",
+    "category": "Electronics",
+    "description": "A versatile 2-in-1 tablet and laptop with a detachable keyboard and stylus support."
+},
+{
+    "id": "7",
+    "productType": "Computer",
+    "image": "/assets/Computers/7.jpg",
+    "company": "Asus",
+    "model": "ZenBook 14",
+    "price": "Rs:34,899.00",
+    "category": "Electronics",
+    "description": "A compact laptop with a premium build, strong performance, and long battery life."
+},
+{
+    "id": "8",
+    "productType": "Computer",
+    "image": "/assets/Computers/8.jpg",
+    "company": "Alienware",
+    "model": "Aurora R10",
+    "price": "Rs:3,41,999.00",
+    "category": "Electronics",
+    "description": "A high-end gaming desktop with customizable components and advanced graphics capabilities."
+},
+{
+    "id": "9",
+    "productType": "Computer",
+    "image": "/assets/Computers/9.jpg",
+    "company": "HP",
+    "model": "EliteBook 840",
+    "price": "Rs:51,299.00",
+    "category": "Electronics",
+    "description": "A business laptop with robust security features, reliable performance, and sleek design."
+},
+{
+    "id": "10",
+    "productType": "Computer",
+    "image": "/assets/Computers/10.jpg",
+    "company": "Lenovo",
+    "model": "ThinkCentre M720",
+    "price": "Rs:23,799.00",
+    "category": "Electronics",
+    "description": "A compact and powerful desktop computer suitable for business and productivity tasks."
+},
+{
+    "id": "11",
+    "productType": "Computer",
+    "image": "/assets/Computers/2.jpg",
+    "company": "Dell",
+    "model": "XPS 13",
+    "price": "Rs:21,499.00",
+    "category": "Electronics",
+    "description": "A premium ultrabook with a stunning display, strong performance, and sleek design."
+},
+{
+    "id": "12",
+    "productType": "Computer",
+    "image": "/assets/Computers/1.jpg",
+    "company": "Acer",
+    "model": "Chromebook 14",
+    "price": "Rs:23,349.99",
+    "category": "Electronics",
+    "description": "A lightweight and affordable laptop running on Chrome OS, ideal for web-based tasks."
+},
+{
+    "id": "1",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/1.jpg",
+    "company": "LG",
+    "model": "CoolFrost 5000",
+    "price": "Rs:23,999.99",
+    "category": "Electronics",
+    "description": "A spacious and energy-efficient refrigerator with advanced cooling technology."
+},
+{
+    "id": "2",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/2.jpg",
+    "company": "Samsung",
+    "model": "FridgeMaster Pro",
+    "price": "Rs:31,499.00",
+    "category": "Electronics",
+    "description": "A high-capacity refrigerator with smart features and precise temperature control."
+},
+{
+    "id": "3",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/3.jpg",
+    "company": "Whirlpool",
+    "model": "ChillZone 300",
+    "price": "Rs:17,899.99",
+    "category": "Electronics",
+    "description": "A modern refrigerator with adjustable shelves and efficient cooling performance."
+},
+{
+    "id": "4",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/4.jpg",
+    "company": "Frigidaire",
+    "model": "CoolMist XL",
+    "price": "Rs:23,599.50",
+    "category": "Electronics",
+    "description": "A spacious fridge with a water dispenser and innovative humidity control."
+},
+{
+    "id": "5",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/5.jpg",
+    "company": "KitchenAid",
+    "model": "FreezeGuard 800",
+    "price": "Rs:13,799.00",
+    "category": "Electronics",
+    "description": "A premium refrigerator with customizable compartments and stylish design."
+},
+{
+    "id": "6",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/6.jpg",
+    "company": "GE",
+    "model": "SmartCool+",
+    "price": "Rs:21,199.99",
+    "category": "Electronics",
+    "description": "A smart refrigerator with Wi-Fi connectivity and built-in voice assistant."
+},
+{
+    "id": "7",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/7.jpg",
+    "company": "Maytag",
+    "model": "IceMaster 1500",
+    "price": "Rs:21,399.00",
+    "category": "Electronics",
+    "description": "A reliable refrigerator with spacious freezer and high-capacity ice maker."
+},
+{
+    "id": "8",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/8.jpg",
+    "company": "Bosch",
+    "model": "FreshSense 400",
+    "price": "Rs:17,999.00",
+    "category": "Electronics",
+    "description": "A European-style refrigerator with advanced temperature management and energy efficiency."
+},
+{
+    "id": "9",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/9.jpg",
+    "company": "Haier",
+    "model": "CoolWave French Door",
+    "price": "Rs:11,699.50",
+    "category": "Electronics",
+    "description": "A French door refrigerator with sleek design and ample storage space."
+},
+{
+    "id": "10",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/10.jpg",
+    "company": "Sub-Zero",
+    "model": "ProChill 8000",
+    "price": "Rs:22,999.00",
+    "category": "Electronics",
+    "description": "A high-end refrigerator with dual cooling zones and advanced preservation features."
+},
+{
+    "id": "11",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/11.jpg",
+    "company": "Kenmore",
+    "model": "Elite Series",
+    "price": "Rs:21,199.00",
+    "category": "Electronics",
+    "description": "An energy-efficient refrigerator with modern features and elegant stainless steel finish."
+},
+{
+    "id": "12",
+    "productType": "Refrigerator",
+    "image": "/assets/fridge/12.jpg",
+    "company": "Viking",
+    "model": "Professional Series",
+    "price": "Rs:13,999.99",
+    "category": "Electronics",
+    "description": "A high-performance refrigerator designed for professional-grade kitchen environments."
+},
+{
+    "id": "1",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/1.jpg",
+    "type": "Sofa",
+    "company": "IKEA",
+    "model": "ComfortPlus",
+    "price": "Rs:34,499.99",
+    "category": "Home",
+    "description": "A comfortable and modern sofa with plush cushions and a sleek design."
+},
+{
+    "id": "2",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/2.jpg",
+    "type": "Dining Table",
+    "company": "Wayfair",
+    "model": "ElegantDine",
+    "price": "Rs:12,899.00",
+    "category": "Home",
+    "description": "An elegant dining table with solid wood construction and expandable design."
+},
+{
+    "id": "3",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/3.jpg",
+    "type": "Bed",
+    "company": "Ashley ",
+    "model": "DreamRest",
+    "price": "Rs:13,799.50",
+    "category": "Home",
+    "description": "A stylish and comfortable bed with upholstered headboard and durable frame."
+},
+{
+    "id": "4",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/4.jpg",
+    "type": "Coffee Table",
+    "company": "West Elm",
+    "model": "ModernBlend",
+    "price": "Rs:11,349.99",
+    "category": "Home",
+    "description": "A modern coffee table with a blend of materials, adding character to your living room."
+},
+{
+    "id": "5",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/5.jpg",
+    "type": "Wardrobe",
+    "company": "Houzz",
+    "model": "SpaceSaver",
+    "price": "Rs:15,599.00",
+    "category": "Home",
+    "description": "A space-saving wardrobe with versatile storage compartments and sleek appearance."
+},
+{
+    "id": "6",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/6.jpg",
+    "type": "Bookshelf",
+    "company": "Crate & Barrel",
+    "model": "BookHaven",
+    "price": "Rs:2,299.50",
+    "category": "Home",
+    "description": "A functional bookshelf with adjustable shelves, suitable for any room."
+},
+{
+    "id": "7",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/7.jpg",
+    "type": "Desk",
+    "company": "Staples",
+    "model": "WorkPro",
+    "price": "Rs:3,199.99",
+    "category": "Office",
+    "description": "A spacious office desk with ergonomic design and ample storage."
+},
+{
+    "id": "8",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/8.jpg",
+    "type": "Bar Stool",
+    "company": "Target",
+    "model": "UrbanChic",
+    "price": "Rs:1,289.00",
+    "category": "Home",
+    "description": "An urban chic bar stool with a contemporary look, perfect for kitchen islands."
+},
+{
+    "id": "9",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/9.jpg",
+    "type": "Dresser",
+    "company": "Pottery Barn",
+    "model": "RusticCharm",
+    "price": "Rs:2,599.99",
+    "category": "Home",
+    "description": "A rustic dresser with ample storage space and charming distressed finish."
+},
+{
+    "id": "10",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/10.jpg",
+    "type": "Couch",
+    "company": "Crate & Barrel",
+    "model": "ComfyLounge",
+    "price": "Rs:3,999.00",
+    "category": "Home",
+    "description": "A comfortable couch with deep seating and modern design, perfect for lounging."
+},
+{
+    "id": "11",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/11.jpg",
+    "type": "Side Table",
+    "company": "CB2",
+    "model": "MinimalistSide",
+    "price": "Rs:1,149.50",
+    "category": "Home",
+    "description": "A minimalist side table with clean lines, adding functionality to any space."
+},
+{
+    "id": "12",
+    "productType": "Furniture",
+    "image": "/assets/Furniture/12.jpg",
+    "type": "Bedside Table",
+    "company": "Ethan Allen",
+    "model": "ClassicNight",
+     "price": "Rs:1,249.00",
+    "category": "Home",
+    "description": "A classic bedside table with a timeless design and convenient storage."
+},
+{
+    "id": "1",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/1.jpg",
+    "type": "Blender",
+    "company": "Vitamix",
+    "model": "PowerBlend 5000",
+    "price": "Rs:2,490.99",
+    "category": "Appliances",
+    "description": "A powerful blender for smoothies, soups, and more, with variable speed control."
+},
+{
+    "id": "2",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/2.jpg",
+    "type": "Cookware Set",
+    "company": "Calphalon",
+    "model": "Classic Nonstick",
+    "price": "Rs:2,990.00",
+    "category": "Cookware",
+    "description": "A comprehensive cookware set featuring nonstick surfaces and durable construction."
+},
+{
+    "id": "3",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/3.jpg",
+    "type": "Coffee Maker",
+    "company": "Keurig",
+    "model": "K-Elite",
+    "price": "Rs:1,490.50",
+    "category": "Appliances",
+    "description": "A versatile coffee maker with multiple brew sizes and strong brew option."
+},
+{
+    "id": "4",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/4.jpg",
+    "type": "Knife Set",
+    "company": "Wusthof",
+    "model": "Classic Knife Block",
+    "price": "Rs:199.99",
+    "category": "Cutlery",
+    "description": "A high-quality knife set featuring essential knives and a stylish knife block."
+},
+{
+    "id": "5",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/5.jpg",
+    "type": "Stand Mixer",
+    "company": "KitchenAid",
+    "model": "Artisan Series",
+    "price": "Rs:299.00",
+    "category": "Appliances",
+    "description": "An iconic stand mixer known for its versatility and wide range of attachments."
+},
+{
+    "id": "6",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/6.png",
+    "type": "Baking Set",
+    "company": "Pyrex",
+    "model": "Bake & Store",
+    "price": "Rs:2,349.99",
+    "category": "Bakeware",
+    "description": "A practical baking set with various glass containers for baking, storing, and serving."
+},
+{
+    "id": "7",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/7.jpg",
+    "type": "Rice Cooker",
+    "company": "Zojirushi",
+    "model": "Neuro Fuzzy",
+    "price": "Rs:3,119.00",
+    "category": "Appliances",
+    "description": "A sophisticated rice cooker with advanced fuzzy logic technology for perfect rice every time."
+},
+{
+    "id": "8",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/8.jpg",
+    "type": "Utensil Set",
+    "company": "OXO",
+    "model": "Good Grips",
+    "price": "Rs:1,229.99",
+    "category": "Utensils",
+    "description": "A versatile utensil set with comfortable grips and a variety of kitchen tools."
+},
+{
+    "id": "9",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/9.jpg",
+    "type": "Food Processor",
+    "company": "Cuisinart",
+    "model": "DLC-8SBCY",
+    "price": "Rs:2,129.99",
+    "category": "Appliances",
+    "description": "A powerful food processor for chopping, slicing, and shredding ingredients."
+},
+{
+    "id": "10",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/10.jpg",
+    "type": "Mixer",
+    "company": "OXO",
+    "model": "Handheld Mixer",
+    "price": "Rs:2,549.50",
+    "category": "Appliances",
+    "description": "A handheld mixer with multiple speed settings for blending, whipping, and mixing."
+},
+{
+    "id": "11",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/11.jpg",
+    "type": "Dish Set",
+    "company": "Corelle",
+    "model": "Classic Winter Frost",
+    "price": "Rs:2,669.99",
+    "category": "Dining",
+    "description": "A durable and lightweight dish set suitable for everyday dining and special occasions."
+},
+{
+    "id": "12",
+    "productType": "Kitchen",
+    "image": "/assets/Kitchen/12.jpg",
+    "type": "Slow Cooker",
+    "company": "Crock-Pot",
+    "model": "Programmable Slow Cooker",
+    "price": "Rs:1,379.00",
+    "category": "Appliances",
+    "description": "A programmable slow cooker for convenient and flavorful cooking."
+},
+{
+    "id": "1",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/1.jpg",
+    "type": "T-Shirt",
+    "company": "Nike",
+    "model": "Sporty Tee",
+    "price": "Rs:329.99",
+    "category": "Clothing",
+    "description": "A comfortable and stylish sporty t-shirt with moisture-wicking fabric."
+},
+{
+    "id": "2",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/2.jpg",
+    "type": "Dress Shirt",
+    "company": "Calvin Klein",
+    "model": "ClassicFit",
+    "price": "Rs:3,449.99",
+    "category": "Clothing",
+    "description": "A classic fit dress shirt made from high-quality fabric, suitable for formal occasions."
+},
+{
+    "id": "3",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/3.jpg",
+    "type": "Jeans",
+    "company": "Levi's",
+    "model": "511 Slim Fit",
+    "price": "Rs:2,459.50",
+    "category": "Clothing",
+    "description": "Slim fit jeans with a modern look, perfect for casual outings."
+},
+{
+    "id": "4",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/4.jpg",
+    "type": "Polo Shirt",
+    "company": "Ralph Lauren",
+    "model": "Signature Polo",
+    "price": "Rs:969.00",
+    "category": "Clothing",
+    "description": "A classic polo shirt with the iconic Ralph Lauren logo, ideal for a refined casual look."
+},
+{
+    "id": "5",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/5.jpg",
+    "type": "Jacket",
+    "company": "The North Face",
+    "model": "Apex Bionic",
+    "price": "Rs:1,129.99",
+    "category": "Clothing",
+    "description": "A versatile softshell jacket designed for outdoor activities and everyday wear."
+},
+{
+    "id": "6",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/6.jpg",
+    "type": "Shorts",
+    "company": "Under Armour",
+    "model": "Tech Mesh Shorts",
+    "price": "Rs:1,234.99",
+    "category": "Clothing",
+    "description": "Lightweight and breathable mesh shorts for workouts and active lifestyles."
+},
+{
+    "id": "7",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/7.jpg",
+    "type": "Sweater",
+    "company": "Tommy Hilfiger",
+    "model": "Crewneck Sweater",
+    "price": "Rs:779.50",
+    "category": "Clothing",
+    "description": "A classic crewneck sweater made from soft and comfortable materials."
+},
+{
+    "id": "8",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/8.jpg",
+    "type": "Suit",
+    "company": "Hugo Boss",
+    "model": "ModernFit Suit",
+    "price": "Rs:499.00",
+    "category": "Clothing",
+    "description": "A modern-fit suit crafted with attention to detail, perfect for formal occasions."
+},
+{
+    "id": "9",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/9.jpg",
+    "type": "Hoodie",
+    "company": "Adidas",
+    "model": "Essentials Hoodie",
+    "price": "Rs:744.99",
+    "category": "Clothing",
+    "description": "A comfortable and stylish hoodie with the Adidas logo, suitable for everyday wear."
+},
+{
+    "id": "10",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/10.jpg",
+    "type": "Chinos",
+    "company": "Dockers",
+    "model": "Alpha Khaki",
+    "price": "Rs:1,139.99",
+    "category": "Clothing",
+    "description": "Versatile chino pants with a modern slim fit, suitable for casual and semi-formal occasions."
+},
+{
+    "id": "11",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/11.jpg",
+    "type": "Swim Trunks",
+    "company": "Speedo",
+    "model": "Endurance+ Swim Trunks",
+    "price": "Rs:1,291.50",
+    "category": "Clothing",
+    "description": "Durable and comfortable swim trunks designed for performance and comfort in the water."
+},
+{
+    "id": "12",
+    "productType": "Menswear",
+    "image": "/assets/MenWear/12.jpg",
+    "type": "Blazer",
+    "company": "Brothers",
+    "model": "Classic Blazer",
+    "price": "Rs:2,189.00",
+    "category": "Clothing",
+    "description": "A timeless classic blazer suitable for both professional and smart-casual looks."
+},
+{
+    "id": "1",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/1.png",
+    "company": "Apple",
+    "model": "iPhone 13 Pro",
+    "price": "Rs:1,00,099.00",
+    "category": "Electronics",
+    "description":
+      "The latest iPhone model with advanced camera capabilities and powerful performance."
+  },
+  {
+    "id": "2",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/2.jpg",
+    "company": "Samsung",
+    "model": "Galaxy Z Fold 3",
+    "price": "Rs:17,990.00",
+    "category": "Electronics",
+    "description":
+      "A foldable smartphone with a large display and multitasking features."
+  },
+  {
+    "id": "3",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/3.jpg",
+    "company": "Google",
+    "model": "Pixel 6",
+    "price": "Rs:17,990.99",
+    "category": "Electronics",
+    "description":
+      "A Google Pixel phone with exceptional camera quality and the latest Android features."
+  },
+  {
+    "id": "4",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/4.jpg",
+    "company": "OnePlus",
+    "model": "9 Pro",
+    "price": "Rs:34,899.00",
+    "category": "Electronics",
+    "description":
+      "A flagship OnePlus phone known for its smooth performance and fast charging."
+  },
+  {
+    "id": "5",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/5.jpg",
+    "company": "Xiaomi",
+    "model": "Mi 11 Ultra",
+    "price": "Rs:21,999.50",
+    "category": "Electronics",
+    "description":
+      "A high-spec Xiaomi phone with a versatile camera system and powerful hardware."
+  },
+  {
+    "id": "6",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/6.jpg",
+    "company": "Sony",
+    "model": "Xperia 1 III",
+    "price": "Rs:11,199.00",
+    "category": "Electronics",
+    "description":
+      "A Sony Xperia phone with a 4K display and pro-level camera features."
+  },
+  {
+    "id": "7",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/7.jpg",
+    "company": "LG",
+    "model": "G9 ThinQ",
+    "price": "Rs:23,749.00",
+    "category": "Electronics",
+    "description":
+      "An LG smartphone with AI-enhanced features and a sleek design."
+  },
+  {
+    "id": "8",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/8.jpg",
+    "company": "Motorola",
+    "model": "Edge 20",
+    "price": "Rs:34,599.99",
+    "category": "Electronics",
+    "description":
+      "A Motorola Edge phone with 5G capabilities and a high-refresh-rate display."
+  },
+  {
+    "id": "9",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/9.jpg",
+    "company": "Huawei",
+    "model": "P50 Pro",
+    "price": "Rs:41,299.00",
+    "category": "Electronics",
+    "description":
+      "A Huawei flagship phone with advanced camera technology and sleek aesthetics."
+  },
+  {
+    "id": "10",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/10.jpg",
+    "company": "Oppo",
+    "model": "Find X5 Pro",
+    "price": "Rs:34,899.50",
+    "category": "Electronics",
+    "description":
+      "An Oppo Find X phone with innovative design and impressive camera features."
+  },
+  {
+    "id": "11",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/11.jpg",
+    "company": "Nokia",
+    "model": "8.4 5G",
+    "price": "Rs:56,549.00",
+    "category": "Electronics",
+    "description":
+      "A Nokia smartphone with 5G connectivity and a focus on reliability."
+  },
+  {
+    "id": "12",
+    "productType": "Mobile",
+    "image": "/assets/Mobiles/12.jpg",
+    "company": "Realme",
+    "model": "GT Master Edition",
+    "price": "Rs:34,379.99",
+    "category": "Electronics",
+    "description":
+      "A Realme phone designed in collaboration with a renowned designer, featuring a unique aesthetic."
+  },
+  {
+    "id": "1",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/1.jpg",
+    "type": "Dress",
+    "company": "Zara",
+    "model": "Flowy Maxi",
+    "price": "Rs:797.99",
+    "category": "Clothing",
+    "description": "A flowy maxi dress with floral patterns, perfect for summer occasions."
+},
+{
+    "id": "2",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/2.jpg",
+    "type": "Blouse",
+    "company": "H&M",
+    "model": "Classic Silk",
+    "price": "Rs:495.90",
+    "category": "Clothing",
+    "description": "A classic silk blouse suitable for professional and casual settings."
+},
+{
+    "id": "3",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/3.jpg",
+    "type": "Jeans",
+    "company": "Levi's",
+    "model": "501 Skinny",
+    "price": "Rs:891.50",
+    "category": "Clothing",
+    "description": "Skinny fit jeans with a classic 5-pocket design, perfect for everyday wear."
+},
+{
+    "id": "4",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/4.jpg",
+    "type": "Jumpsuit",
+    "company": "Forever 21",
+    "model": "Utility Jumpsuit",
+    "price": "Rs:595.99",
+    "category": "Clothing",
+    "description": "A utility-style jumpsuit with a modern and versatile look."
+},
+{
+    "id": "5",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/5.jpg",
+    "type": "Skirt",
+    "company": "Topshop",
+    "model": "A-Line Mini",
+    "price": "Rs:390.99",
+    "category": "Clothing",
+    "description": "A stylish A-line mini skirt with a retro touch, suitable for various occasions."
+},
+{
+    "id": "6",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/6.jpg",
+    "type": "Sweater",
+    "company": "Gap",
+    "model": "Cable Knit",
+    "price": "Rs:496.95",
+    "category": "Clothing",
+    "description": "A cozy cable knit sweater with a timeless design, perfect for chilly days."
+},
+{
+    "id": "7",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/7.jpg",
+    "type": "Blazer",
+    "company": "Mango",
+    "model": "Tailored Blazer",
+    "price": "Rs:796.99",
+    "category": "Clothing",
+    "description": "A tailored blazer with a chic silhouette, suitable for formal and casual looks."
+},
+{
+    "id": "8",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/8.jpg",
+    "type": "Activewear",
+    "company": "Lululemon",
+    "model": "Align Leggings",
+    "price": "Rs:989.00",
+    "category": "Clothing",
+    "description": "High-quality leggings with a buttery soft feel, ideal for yoga and workouts."
+},
+{
+    "id": "9",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/8.jpg",
+    "type": "Swimwear",
+    "company": "Secret",
+    "model": "Bikini Set",
+    "price": "Rs:597.50",
+    "category": "Clothing",
+    "description": "A stylish bikini set with vibrant patterns, perfect for beach days."
+},
+{
+    "id": "10",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/10.jpg",
+    "type": "Pants",
+    "company": "Hollister",
+    "model": "High-Rise Skinny",
+    "price": "Rs:490.95",
+    "category": "Clothing",
+    "description": "High-rise skinny pants with a flattering fit, suitable for various occasions."
+},
+{
+    "id": "11",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/11.jpg",
+    "type": "Coat",
+    "company": "Voltaire",
+    "model": "Wool Blend Coat",
+    "price": "Rs:1,299.00",
+    "category": "Clothing",
+    "description": "A stylish wool blend coat with a modern and elegant design, perfect for colder days."
+},
+{
+    "id": "12",
+    "productType": "Womenswear",
+    "image": "/assets/Woman/12.jpg",
+    "type": "T-Shirt",
+    "company": "Eagle",
+    "model": "Graphic Tee",
+    "price": "Rs:246.95",
+    "category": "Clothing",
+    "description": "A casual graphic tee with trendy prints, suitable for relaxed everyday outfits."
+}]
