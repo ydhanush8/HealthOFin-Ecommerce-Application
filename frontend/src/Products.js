@@ -20,7 +20,7 @@ const Products = () => {
             console.error("Error fetching products:", error);
         }
     };
-    
+
     const addProductToCart = async (product) => {
         try {
             await axios.post("http://localhost:3001/api/addToCart",product);
@@ -41,26 +41,27 @@ const Products = () => {
             );
             setFilteredProducts(filtered);
         }
+        window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
     };
 
     return (
         <div className="products-container">
+                <select
+                    className="select-dropdown"
+                    value={productType}
+                    onChange={handleFilterChange}
+                    >
+                    <option value="All">All</option>
+                    <option value="airConditioner">Air Conditioner</option>
+                    <option value="Computer">Computer</option>
+                    <option value="Refrigerator">Refrigerator</option>
+                    <option value="Furniture">Furniture</option>
+                    <option value="Kitchen">Kitchen</option>
+                    <option value="Menswear">Menswear</option>
+                    <option value="Womenswear">Womenswear</option>
+                    <option value="Mobile">Mobile</option>
+                </select>
             <h1 className="text-size">Products</h1>
-            <select
-                className="select-dropdown"
-                value={productType}
-                onChange={handleFilterChange}
-            >
-                <option value="All">All</option>
-                <option value="airConditioner">Air Conditioner</option>
-                <option value="Computer">Computer</option>
-                <option value="Refrigerator">Refrigerator</option>
-                <option value="Furniture">Furniture</option>
-                <option value="Kitchen">Kitchen</option>
-                <option value="Menswear">Menswear</option>
-                <option value="Womenswear">Womenswear</option>
-                <option value="Mobile">Mobile</option>
-            </select>
 
             <div className="grid">
                 {filteredProducts.map((product) => (

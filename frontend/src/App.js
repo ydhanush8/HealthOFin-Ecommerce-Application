@@ -23,7 +23,7 @@ function App() {
 
         {isSidebarOpen && (
           <>
-            <div className="overlay" onClick={toggleSidebar}></div>
+            <div className="bg-transparent" onClick={toggleSidebar}></div>
             <div className="sidebar">
               <button className="close-btn" onClick={toggleSidebar}>
                 ✕
