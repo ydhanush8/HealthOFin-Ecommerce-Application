@@ -3,11 +3,14 @@
 }
 
 .navbar {
-  background-color: #4d4d4d;
+  background-color: #232f3e;
   padding: 1rem;
   position: fixed;
   top: 0px;
+  left: 0px;
   width: 100%;
+  color: white;
+  text-align: left;
 }
 
 .nav-link{
@@ -27,9 +30,8 @@
 }
 
 .nav-link-top{
-  padding-top: 250px;
+  padding-top: 50px;
 }
-
 
 .nav-link:hover{
   background-color: rgb(106, 106, 106);
@@ -41,7 +43,8 @@
 .logo{
   font-size: 35px;
   font-weight: 700;
-  margin-right: 40px;
+  margin-left: 80px;
+  margin-top: 0px;
 }
 
 .navbar a {
@@ -66,8 +69,8 @@
   top: 0;
   left: 0;
   height: 100%;
-  width: 250px;
-  background-color: rgb(39, 39, 39);
+  width: 300px;
+  background-color: #131921;
   color: white;
   padding: 2rem 1rem;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
@@ -112,4 +115,38 @@
   height: 100%;
   background-color: rgba(0, 0, 0, 0.7); 
   z-index: 500;
+}
+
+.nav-cart{
+  position: absolute;
+  right: 60px;
+  top: 27px;
+  
+}
+
+.nav-cart-link{
+  background-color: #339231;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.sidebar-product-type{
+  color: white;
+  text-decoration: none;
+}
+
+.sidebar-product-type:hover{
+  background-color: rgb(106, 106, 106);
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.nav-search{
+  padding: 10px;
+  width: 450px;
+  position: absolute;
+  top: 17px;
+  left: 600px;
+  border-radius: 6px;
+  font-size: 17px;
 }

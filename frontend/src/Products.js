@@ -1,16 +1,16 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import axios from "axios";
 import "./Products.css";
 
-const Products = () => {
+const Products = ({productType, setProductType}) => {
     const [products, setProducts] = useState([]);
     const [filteredProducts, setFilteredProducts] = useState([]);
-    const [productType, setProductType] = useState("All");
 
     useEffect(() => {
         getProducts();
     }, []);
 
+    
     const getProducts = async () => {
         try {
             let response = await axios.get("http://localhost:3001/api/products");
@@ -20,7 +20,7 @@ const Products = () => {
             console.error("Error fetching products:", error);
         }
     };
-
+    
     const addProductToCart = async (product) => {
         try {
             await axios.post("http://localhost:3001/api/addToCart",product);
@@ -28,12 +28,11 @@ const Products = () => {
             console.error("Error fetching products:", error);
         }
     };
-
-    const handleFilterChange = (event) => {
-        const selectedType = event.target.value;
+    
+    const handleFilterChange = useCallback((selectedType) => {
         setProductType(selectedType);
-
-        if (selectedType === "All") {
+        
+        if (selectedType === "Products") {
             setFilteredProducts(products);
         } else {
             const filtered = products.filter(
@@ -42,16 +41,21 @@ const Products = () => {
             setFilteredProducts(filtered);
         }
         window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
-    };
+    },[products, setProductType]);
 
+    useEffect(()=>{
+        handleFilterChange(productType)
+    },[productType, handleFilterChange])
+    
     return (
         <div className="products-container">
+            <h1 className="text-size">Products</h1>
                 <select
                     className="select-dropdown"
                     value={productType}
-                    onChange={handleFilterChange}
+                    onChange={(e)=>handleFilterChange(e.target.value)}
                     >
-                    <option value="All">All</option>
+                    <option value="Products">Products</option>
                     <option value="airConditioner">Air Conditioner</option>
                     <option value="Computer">Computer</option>
                     <option value="Refrigerator">Refrigerator</option>
@@ -61,7 +65,6 @@ const Products = () => {
                     <option value="Womenswear">Womenswear</option>
                     <option value="Mobile">Mobile</option>
                 </select>
-            <h1 className="text-size">Products</h1>
 
             <div className="grid">
                 {filteredProducts.map((product) => (

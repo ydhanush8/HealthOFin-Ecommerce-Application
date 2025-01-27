@@ -1,13 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import axios from 'axios'
 import "./Products.css";
 
-function Cart() {
-    const [cartProducts, setCartProducts] = useState([])
-
-    useEffect(() => {
-        getCartProducts();
-    }, []);
+function Cart({cartProducts, setCartProducts}) {
+    useEffect(()=>{
+        getCartProducts()
+    })
 
     const getCartProducts = async () => {
         try {
